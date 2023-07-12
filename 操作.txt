@@ -2,3 +2,5 @@
 2 更改数据库密码vue3-yan\server\libs\DBHelper
 3 启动作品 npm rum server
 4 启动后端vue3-yan\server 启动命令 node app.js
+
+http://127.0.0.1:8080/index.html
